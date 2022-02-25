@@ -1,0 +1,19 @@
+{
+  "name": "101282617_comp3133_assig1",
+  "version": "1.0.0",
+  "description": "assignment 1 graphql aribnb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryanluther/101282617_comp3133_assig1.git"
+  },
+  "author": "aryan luthra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryanluther/101282617_comp3133_assig1/issues"
+  },
+  "homepage": "https://github.com/aryanluther/101282617_comp3133_assig1#readme"
+}
