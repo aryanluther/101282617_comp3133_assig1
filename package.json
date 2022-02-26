@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/aryanluther/101282617_comp3133_assig1/issues"
   },
-  "homepage": "https://github.com/aryanluther/101282617_comp3133_assig1#readme"
+  "homepage": "https://github.com/aryanluther/101282617_comp3133_assig1#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.3",
+    "nodemon": "^2.0.15"
+  }
 }
